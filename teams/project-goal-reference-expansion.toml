@@ -15,13 +15,14 @@ members = [
     "SparrowLii",
     "borsakv",
     "epage",
-    "lcnr",
     "lucarlig",
     "midiareshadi",
     "petrochenkov",
     "yaahc",
 ]
-alumni = []
+alumni = [
+    "lcnr",
+]
 
 [[github]]
 orgs = ["rust-lang"]

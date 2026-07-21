@@ -7,11 +7,11 @@ leads = ["oli-obk", "RalfJung"]
 members = [
     "oli-obk",
     "RalfJung",
-    "lcnr",
     "fee1-dead",
 ]
 alumni = [
     "ecstatic-morse",
+    "lcnr",
 ]
 
 [website]
